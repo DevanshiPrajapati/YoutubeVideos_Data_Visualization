@@ -1,2 +1,16 @@
-# YoutubeVideos_Data_Visualization
-A Python project demonstrating data processing and visualization skills using Matplotlib
+# Data Processing and Visualization Project
+
+This project demonstrates data processing and visualization skills using Python and Matplotlib.
+
+## Features
+
+- Data processing using Dictionaries instead of NumPy
+- Line plots, scatter plots, pie charts, and histograms using Matplotlib
+- Date parsing and manipulation
+- Channel-based data analysis
+
+## Usage
+
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the script: `python data_visualization.py`
+
